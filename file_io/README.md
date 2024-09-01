@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-![File_I-O.png](README-image/file_io.png)
+![File_I/O.png](README-image/file_io.png)
 
 </div>
 
