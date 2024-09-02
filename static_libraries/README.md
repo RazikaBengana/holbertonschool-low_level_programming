@@ -158,7 +158,7 @@ Bash
 
 <br>
 
-- You do not need to learn about **_dynamic libraries_**, yet.
+- You do not need to learn about **dynamic libraries**, yet.
 
 <br>
 <br>
