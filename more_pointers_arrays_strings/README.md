@@ -171,7 +171,7 @@ General
 
 <br>
 
-- You do not need to learn about **_pointers to functions_**, **_pointers to pointers_**, **_multidimensional arrays_**, **_arrays of structures_**, `malloc` and `free` yet.
+- You do not need to learn about **pointers to functions**, **pointers to pointers**, **multidimensional arrays**, **arrays of structures**, `malloc` and `free` yet.
 
 <br>
 <br>
