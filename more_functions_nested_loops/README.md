@@ -176,7 +176,7 @@ General
 
 <br>
 
-- You do not have to understand the **_call by reference (address)_**, **_stack_**, **_static variables_**, **_recursions_** or **_arrays_**, yet.
+- You do not have to understand the **call by reference (address)**, **stack**, **static variables**, **recursions** or **arrays**, yet.
 
 <br>
 <br>
