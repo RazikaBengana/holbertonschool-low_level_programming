@@ -159,7 +159,7 @@ General
 
 <br>
 
-- You do not need to learn about **_pointers to functions_**, **_arrays of structures_**, `malloc` and `free` yet.
+- You do not need to learn about **pointers to functions**, **arrays of structures**, `malloc` and `free` yet.
 
 <br>
 <br>
