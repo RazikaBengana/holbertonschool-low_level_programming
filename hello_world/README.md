@@ -87,7 +87,7 @@ This project has been created by **[Holberton School](https://www.holbertonschoo
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -203,7 +203,7 @@ Shell Scripts
   <br>
   <br>
 
-    ```yaml
+    ```bash
     #!/bin/bash
     # Simply a wrapper script to keep you from having to use betty-style
     # and betty-doc separately on every item.
@@ -293,7 +293,7 @@ You can now type `betty <filename>` to run the Betty linter!
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
